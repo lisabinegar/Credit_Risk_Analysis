@@ -13,10 +13,14 @@ The goal of this credit card dataset analysis from LendingClub was to to apply m
 -	Precision: 99%
 -	Recall: 69%
 
+![image](https://user-images.githubusercontent.com/74984031/114319419-28516080-9ad7-11eb-9137-7f79d7fcd609.png)
+
 **SMOTE:** 
 -	Balanced Accuracy score: 66.2%
 -	Precision: 99%
 -	Recall: 69%
+
+SMOTE_Oversampling![image](https://user-images.githubusercontent.com/74984031/114319428-330bf580-9ad7-11eb-951d-1f027b2eaa67.png)
 
 The oversampling algorithms balanced accuracy, precision, and recall scores are identical to each other. 
 
@@ -27,6 +31,8 @@ The oversampling algorithms balanced accuracy, precision, and recall scores are 
 -	Precision: 99%
 -	Recall: 42%
 
+ClusterCentroids_Resampler![image](https://user-images.githubusercontent.com/74984031/114319437-3a330380-9ad7-11eb-83f4-e436433c50d1.png)
+
 The undersampling algorithms are also very comparable to one another. 
 
 **Combination (Over and Under) Sampling:** 
@@ -36,6 +42,8 @@ The undersampling algorithms are also very comparable to one another.
 -	Precision: 99%
 -	Recall: 57%
 
+SMOTEEN![image](https://user-images.githubusercontent.com/74984031/114319463-4323d500-9ad7-11eb-8ce7-a42577d552fb.png)
+
 **Ensemble Learning Algorithms:** 
 
 **BalancedRandomForestClassifier:** 
@@ -43,10 +51,14 @@ The undersampling algorithms are also very comparable to one another.
 -	Precision: 99%
 -	Recall: 89%
 
+BalancedRandomForestClassifier![image](https://user-images.githubusercontent.com/74984031/114319473-4d45d380-9ad7-11eb-971b-b0e52b1be57b.png)
+
 **EasyEnsembleClassifier:** 
 -	Balanced Accuracy score: 92.5%
 -	Precision: 99%
 -	Recall: 89%
+
+EasyEnsembleClassifier![image](https://user-images.githubusercontent.com/74984031/114319479-53d44b00-9ad7-11eb-9312-227a21359659.png)
 
 ## Summary
 
